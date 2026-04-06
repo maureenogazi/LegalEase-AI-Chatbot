@@ -25,7 +25,7 @@ Use Cases
 - Legal awareness campaigns
 
 Demo Video
-https://youtu.be/UBlbSThzsDE
+https://youtu.be/UBlbSThzsDE?si=cVsSm8bbMBohLwjj
 
 Screenshots
 <img width="1366" height="729" alt="1" src="https://github.com/user-attachments/assets/0d4315fc-4c2d-4e9c-8c6f-72b591e69125" />
