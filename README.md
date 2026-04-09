@@ -1,6 +1,6 @@
-LegalEase AI – Legal Awareness Chatbot
-
-Project Overview
+# LegalEase AI – Legal Awareness Chatbot
+--
+## Project Overview
 LegalEase AI is a prompt-engineered chatbot developed using Microsoft Copilot to simplify legal concepts and generate legal awareness content.
 
 Objectives
